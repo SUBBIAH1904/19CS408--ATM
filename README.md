@@ -4,9 +4,13 @@
 ## REG.NO : 212223220111
 
 
+
+
  
 ## USE CASE DIAGRAM
 ![377574048-c64422a7-9594-4612-904f-30e6317f587b](https://github.com/user-attachments/assets/c951f8aa-fecc-4f7b-8b87-fadf3d6dabce)
+
+
 
 
 
@@ -17,6 +21,8 @@
 
 
 
+
+
 ## ACTIVITY DIAGRAM
 ![377581643-fe470086-5417-4a8d-8468-838ba1fd47f6](https://github.com/user-attachments/assets/d318fb37-4699-4958-866b-d71cf43d61ed)
 
@@ -24,8 +30,12 @@
 
 
 
+
+
 ## CLASS DIAGRAM
 ![377513518-92876d68-b6d3-4f07-86c7-ce5c072ac3db](https://github.com/user-attachments/assets/c4104894-8dc1-441c-87f0-aed4b74c7c28)
+
+
 
 
 
