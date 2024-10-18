@@ -1,9 +1,7 @@
-# 19CS408-1.UML Diagrams for ATM & Banking Systems :
+## 19CS408-1.UML Diagrams for ATM & Banking Systems :
 
-# NAME : SUBBIAH S
-# REG.NO : 212223220111
-
-
+## NAME : SUBBIAH S
+## REG.NO : 212223220111
 
 
 # USE CASE DIAGRAM
